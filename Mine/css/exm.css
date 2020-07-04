@@ -1,0 +1,66 @@
+form,h1{
+	text-align:center;
+	margin:0 auto;
+	diplay:block;
+	width:35%;
+	padding:5px;
+	border:2px solid #FA8072;
+	box-sizing: border-box;
+	background-image: linear-gradient(#FA8072, #FFA07A);
+}
+body{
+	background-image: url(../Mine/images/Bean.jpg/);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+
+}
+.head{
+	text-align:center;
+	font-family:Arial Courtia Helvetica,sans-serif;
+	font-size: 125%;
+}
+h1{
+	border-radius: 25px 25px 0 0;
+	color:black;
+}
+h3{
+	margin-top:30px;
+	margin-left:25px;
+	width:40%;
+	color:white;
+	font-size:18px;
+	text-align:justify;
+	font-weight:700;
+	display:inline-block;
+}
+#nme{
+	position:relative;
+	width:40%;
+	box-sizing: border-box;
+	border:1px solid black;
+	padding:5px;	
+	border-radius: 5px;
+}
+#nm1{
+	border-radius:5px;
+	border:1px solid black;
+	padding:5px 0px 5px 0px;
+}
+button{
+	width:30%;
+	box-sizing: border-box;
+	border:1px solid black;
+	padding:5px;	
+	border-radius: 5px;
+	margin:0 auto;
+	background-color:crimson;
+	color:white;
+
+}
+button:hover{
+	background-color:green;
+}
+#rst:hover{
+	background-color: black;
+}
